@@ -1,0 +1,6 @@
+&bands 
+outdir ='./tmp' 
+prefix='Nacl' 
+filband='Nacl.band' 
+lsym= .true. 
+/ 
